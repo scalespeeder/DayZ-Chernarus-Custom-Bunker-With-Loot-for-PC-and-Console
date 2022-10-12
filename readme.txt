@@ -68,7 +68,7 @@ TO SPAWN THE KEY CARD ON CHERNARUS IN THE PERMANENT TOXIC ZONES, ADD THIS LINE T
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
